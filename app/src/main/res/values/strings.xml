@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab7</string>
+    <string name="popmenu_add_text">Add Text</string>
+    <string name="like_text">Like Text</string>
 </resources>
