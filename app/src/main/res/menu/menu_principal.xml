@@ -3,7 +3,7 @@
     <item
         android:id="@+id/addItem"
         android:icon="@mipmap/ic_launcher"
-        android:title="@string/popmenu_add_text" />
+        android:title="@string/start_activity" />
     <item
         android:id="@+id/likeItem"
         android:icon="@mipmap/ic_launcher"

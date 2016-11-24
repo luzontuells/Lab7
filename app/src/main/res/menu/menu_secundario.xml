@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addItemSec"
+        android:icon="@android:drawable/star_on"
+        android:title="@string/popmenu_add_text" />
+    <item
+        android:id="@+id/likeItemSec"
+        android:icon="@android:drawable/arrow_up_float"
+        android:title="@string/like_text" />
+
+
+</menu>
